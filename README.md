@@ -10,10 +10,10 @@
 [![Discord](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5547992160321)
 	
 ![Klug GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroklug&show_icons=true&theme=onedark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroklug&layout=compact)](https://github.com/leandroklug/github-readme-stats)
 
 <br/>
+
 ## Technologies I know
 <div style="display: inline_block">
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
