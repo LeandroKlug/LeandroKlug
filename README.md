@@ -1,7 +1,5 @@
 <h1 align="center">
-	<div width="30px">		
-  		<img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47fzeir7nhasbae41hvk6w4esbb9vjyykq6muahr2p&rid=giphy.gif&ct=s">
-	</div>
+	<img style="width:30px" src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47fzeir7nhasbae41hvk6w4esbb9vjyykq6muahr2p&rid=giphy.gif&ct=s">
   <span>Hello, I'm Leandro Klug</span>
   <img src="https://media2.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif?cid=ecf05e47vv15ohd3omqdn4p4q0x07ixw7new7m0x946c6kfr&rid=giphy.gif&ct=s" width="40px">
 </h1>
