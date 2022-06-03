@@ -1,5 +1,5 @@
 <h1 align="center">
-	<div style="width:30px">		
+	<div width="30px">		
   		<img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47fzeir7nhasbae41hvk6w4esbb9vjyykq6muahr2p&rid=giphy.gif&ct=s">
 	</div>
   <span>Hello, I'm Leandro Klug</span>
