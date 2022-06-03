@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img style="width:30px !important" src="https://pt.wikipedia.org/wiki/React_(JavaScript)#/media/Ficheiro:React-icon.svg">
+	<img style="width:30px !important" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <span>Hello, I'm Leandro Klug</span>
   <img src="https://media2.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif?cid=ecf05e47vv15ohd3omqdn4p4q0x07ixw7new7m0x946c6kfr&rid=giphy.gif&ct=s" width="40px">
 </h1>
