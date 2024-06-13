@@ -3,10 +3,9 @@
   <span>Hello, I'm Leandro Klug</span>
   <img src="https://store-images.s-microsoft.com/image/apps.37972.13510798882847238.aaaa73f1-0fc5-480b-8619-538d563b087a.494567bd-9177-4350-b15c-f9b823cb508c?mode=scale&q=90&h=300&w=300" width="40px">
 </h1>
-<h1 align="center">
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-klug/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leanklug/)
-</h1>
 
 <br/>
 
